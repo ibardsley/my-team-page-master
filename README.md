@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://https://master--beautiful-brigadeiros-6a046e.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://https://github.com/ibardsley/my-team-page-master">
       Solution
     </a>
     <span> | </span>
@@ -38,18 +38,21 @@
 
 Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Where can I see your demo? You can check out my demo here -> https://master--beautiful-brigadeiros-6a046e.netlify.app/
+- What was your experience? My experience was very good creating this, tested my ability to work through things one step at a time
+  and really see how things looked as I moved along and made things easier in the end when I needed to make adjustments.
+- What have you learned/improved? I improved my work with the nth-child property and continued to working on my responsive abilities
+  which still need some more practice but I am really happy with how this came out!
+- Your wisdom? :) Definitely be aware of removing some css properties when using media queries as I took a while to figure out why
+  one of my photos would not match up how I wanted until I realized the original css was still in effect since nothing was overriding it
+  so I had to tell css to not do something when the media query takes over.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML]
+- [CSS]
 
 ## Features
 
@@ -63,11 +66,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [CSS Tricks - nth-child and Text Rotation]
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@ibardsley](https://github.com/ibardsley)
