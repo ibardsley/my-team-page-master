@@ -130,14 +130,12 @@ footer {
     }
 
     .crew:nth-child(even) {
-        border: solid 1px red;
         margin-top: 100px;
     }
 }
 
 @media screen and (max-width: 720px) {
     .crew {
-        border: solid 1px green;
         width: 190px;
         height: 275px;
     }
@@ -172,7 +170,6 @@ footer {
     }   
 
     .crew {
-        border: solid 1px green;
         width: 160px;
         height: 245px;
     }
